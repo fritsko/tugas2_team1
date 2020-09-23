@@ -1,0 +1,11 @@
+.container h1, h4{
+    text-align: center;
+}
+
+.col-sm p{
+    text-align: justify;
+}
+
+#konten{
+    margin-top: 30px;
+}
