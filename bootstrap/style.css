@@ -12,6 +12,7 @@ table{
 
 .text{
     color: white;
+    display: block;
 }
 
 .text h1 a{
@@ -28,9 +29,13 @@ table{
 } 
 
 #tombol .menu{
-    padding-right: 50px;
+    padding-right: 100%;
     padding-bottom: 30px;
 }
+
+/* #tengah{
+    float: left;
+} */
 
 .btn-group{
     height: 100%;
@@ -78,3 +83,9 @@ hr{
 #konten{
     margin-top: 30px;
 }
+
+#footer{
+    background: black;
+}
+
+
